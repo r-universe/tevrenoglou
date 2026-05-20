@@ -5,3 +5,6 @@
 [submodule "mtrank"]
 	path = mtrank
 	url = https://github.com/tevrenoglou/mtrank
+[submodule "mvnma"]
+	path = mvnma
+	url = https://github.com/tevrenoglou/mvnma
